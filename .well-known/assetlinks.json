@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.ntredize.hker.barcodescanner",
+    "sha256_cert_fingerprints":
+    ["09:E0:F3:F8:1A:9B:EC:40:13:5B:BE:DD:24:74:FB:06:2F:B7:5C:6E:E9:02:AF:58:3F:76:2D:85:F4:EA:B5:A3"]
+  }
+}]
